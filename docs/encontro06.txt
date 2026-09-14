@@ -1,0 +1,9 @@
+# Relatório   do Encontro 06 - Integração Linux + Git + Docker
+
+**Nome da equipe:** João Paulo Paz
+**Data:** 11/09/2026
+**Hostname da VM:** Ubuntu-SD
+**Containers encontrados:**
+- nginx_container
+- mysql_container
+- phpmyadmin_container
